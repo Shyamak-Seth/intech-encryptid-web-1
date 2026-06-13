@@ -1,0 +1,2 @@
+User-Agent: *
+Disallow: /do-you-believe-in-reincarnation
